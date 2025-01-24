@@ -1,7 +1,3 @@
-# opnsense-vmware-installation-guide
-Step-by-step guide to install and configure OPNsense on VMware Workstation or ESXi, including prerequisites, setup, and post-installation configuration.
-
-
 # OPNsense Installation Guide on VMware
 
 This repository provides a step-by-step guide to install OPNsense, a free and open-source firewall and routing platform, on VMware.  
